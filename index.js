@@ -229,8 +229,8 @@ function subtractWeightToRisk(number) {
     }
   }
 }
-const email = "ian@devpipeline.com";
-const pass = "One2threesf@1";
+const email = "";
+const pass = "";
 const userData = {
   email: email,
   password: pass,
